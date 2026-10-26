@@ -1,5 +1,7 @@
 # Gestión de Datos de Países en Python
 
+video explicativo: https://youtu.be/GxgqfaKnYi8 
+
 ## 1. Descripción del proyecto
 
 Este proyecto consiste en desarrollar un programa en Python para gestionar información de diferentes países mediante un archivo CSV.
